@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8eef5;
+}
+
+.caixa {
+    background-color: white;
+    width: 320px;
+    padding: 25px;
+    margin: 80px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #cccccc;
+}
+
+h1 {
+    text-align: center;
+    color: #24527a;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #24527a;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #173b59;
+}
+
+#mensagem {
+    text-align: center;
+}
